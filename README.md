@@ -1,5 +1,7 @@
 ### Hi there, I'm Eko Muchamad Haryono👋
 
+![MyProfile](assets/bg_profile.png)
+
 <p>Slogan : "Keep Moving Forward and Keep Developing".</p>
 <p align='left'>Currently, I am a student at Nurul Fikri Institute of Technology, specializing in Computer Engineering. As a graduate of SMKS 1 TRIPLE J 2020/2021 with a major in Software Engineering, I have a strong background in web development using HTML, CSS, JS, PHP, MySQL, Codeigniter, Laravel, Bootstrap, and collaborative application development using Git, with storage on GitHub and GitLab. Additionally, I have participated in the Jabar Coding Camp (JCC) program, focusing on Laravel - Backend.
 

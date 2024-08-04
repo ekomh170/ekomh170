@@ -3,9 +3,7 @@
 ![MyProfile](assets/bg_profile.png)
 
 <p>Slogan : "Keep Moving Forward and Keep Developing".</p>
-<p align='left'>Currently, I am a student at Nurul Fikri Institute of Technology, specializing in Computer Engineering. As a graduate of SMKS 1 TRIPLE J 2020/2021 with a major in Software Engineering, I have a strong background in web development using HTML, CSS, JS, PHP, MySQL, Codeigniter, Laravel, Bootstrap, and collaborative application development using Git, with storage on GitHub and GitLab. Additionally, I have participated in the Jabar Coding Camp (JCC) program, focusing on Laravel - Backend.
-
-In addition to these skills, I have a good understanding of Microsoft Office applications, basics of assembling desktop and laptop computers, as well as installing operating systems and computer applications. I also have experience using Linux operating systems, such as Ubuntu and Manjaro.</p>
+<p align='left'>Currently pursuing a degree in Information Engineering at Sekolah Tinggi Teknologi Terpadu Nurul Fikri. Graduate of SMKS 1 TRIPLE J 2020/2021 in Software Engineering with a strong foundation in web development, particularly Laravel backend. Certified Full Stack Developer with skills in Microsoft Office, Google Suite, computer assembly, operating system installation, and Linux (Ubuntu). Completed notable programs, including the Jabar Digital Academy 2024 Full Stack Developer class and the Candradimuka Jabar Coding Camp 2021 Laravel Backend class. Proven ability to quickly adapt to new technologies and thrive in dynamic environments.</p>
 
 <p align='left'><b>Link About Me : </b><a href="https://linktr.ee/ekomh29">https://linktr.ee/ekomh29</a></p>
 

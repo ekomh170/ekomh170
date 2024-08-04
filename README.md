@@ -3,7 +3,7 @@
 ![MyProfile](assets/bg_profile.png)
 
 <p>Slogan : "Keep Moving Forward and Keep Developing".</p>
-<p align='left'>Currently pursuing a degree in Information Engineering at Sekolah Tinggi Teknologi Terpadu Nurul Fikri. Graduate of SMKS 1 TRIPLE J 2020/2021 in Software Engineering with a strong foundation in web development, particularly Laravel backend. Certified Full Stack Developer with skills in Microsoft Office, Google Suite, computer assembly, operating system installation, and Linux (Ubuntu). Completed notable programs, including the Jabar Digital Academy 2024 Full Stack Developer class and the Candradimuka Jabar Coding Camp 2021 Laravel Backend class. Proven ability to quickly adapt to new technologies and thrive in dynamic environments.</p>
+<p align='left'>Currently pursuing a Bachelor's degree in Information Engineering (Sarjana Komputer - S.Kom.) at Sekolah Tinggi Teknologi Terpadu Nurul Fikri. Graduate of SMKS 1 TRIPLE J 2020/2021 in Software Engineering with a strong foundation in web development, particularly in Laravel backend. Certified Full Stack Developer with expertise in Microsoft Office, Google Suite, computer assembly, operating system installation, and Linux (Ubuntu). Completed notable programs, including the Jabar Digital Academy 2024 Full Stack Developer class and the Candradimuka Jabar Coding Camp 2021 Laravel Backend class. Proven ability to quickly adapt to new technologies and thrive in dynamic environments.</p>
 
 <p align='left'><b>Link About Me : </b><a href="https://linktr.ee/ekomh29">https://linktr.ee/ekomh29</a></p>
 

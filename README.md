@@ -33,23 +33,13 @@
 
 ### 📫 Kontak
 
-<p align="left">
-  <a href="mailto:ekomh13@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-ekomh13@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/ekomh170" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-ekomh170-333?style=flat&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://gitlab.com/ekomh170" target="_blank">
-    <img src="https://img.shields.io/badge/GitLab-ekomh170-FC6D26?style=flat&logo=gitlab&logoColor=white" alt="GitLab" />
-  </a>
-  <a href="https://www.linkedin.com/in/eko-haryono-290/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-eko--haryono--290-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/ekomh_29/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-ekomh__29-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+<span>
+  <a href="mailto:ekomh13@gmail.com"><img src="https://img.shields.io/badge/Gmail-ekomh13@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://github.com/ekomh170"><img src="https://img.shields.io/badge/GitHub-ekomh170-333?style=flat&logo=github" alt="GitHub" /></a>
+  <a href="https://gitlab.com/ekomh170"><img src="https://img.shields.io/badge/GitLab-ekomh170-FC6D26?style=flat&logo=gitlab&logoColor=white" alt="GitLab" /></a>
+  <a href="https://www.linkedin.com/in/eko-haryono-290/"><img src="https://img.shields.io/badge/LinkedIn-eko--haryono--290-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/ekomh_29/"><img src="https://img.shields.io/badge/Instagram-ekomh__29-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</span>
 
 ### 🎓 Pendidikan
 
@@ -64,5 +54,5 @@
 - Partnership & Sponsorship Jabar Digital Academy
 - Asisten Dosen Pemrograman STT NF
 - Staff Minihackathon ASTRO 6.0
-- Staff IT - RS Juliana
--  PKL IT Institut Tazkia
+- Staff IT RS Juliana
+- PKL IT Institut Tazkia

@@ -1,7 +1,7 @@
 <div align="center">
   <img src="assets/bg_profile.png" alt="BannerProfile" />
   <h1>Hi, I'm Eko Muchamad Haryono 👋</h1>
-  <p><b>Slogan:</b> <i>"Keep Moving Forward and Keep Developing"</i></p>
+  <p><b>Motto:</b> <i>"Keep Moving Forward and Keep Developing"</i></p>
   
   [![Portofolio Website](https://img.shields.io/badge/🌐%20Portofolio%20Website-Visit-blue?style=for-the-badge&logo=google-chrome)](https://www.ekomh29.my.id/)
   
@@ -13,9 +13,10 @@
 </div>
 
 
-### 🛠️ Keahlian
 
-- Full Stack Web Developer (spesialisasi Laravel & PHP)
+### 🛠️ Skills
+
+- Full Stack Web Developer (Laravel & PHP Specialist)
 - Backend & API Development
 - Database Management (MySQL, PostgreSQL)
 - Frontend (HTML, CSS, JavaScript, Bootstrap)
@@ -25,13 +26,15 @@
 - Problem Solving & Team Collaboration
 - Linux (Ubuntu) & Windows
 
-### 📈 Statistik
+
+### 📈 Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ekomh170&theme=vue-dark&hide_border=true" />
 </div>
 
-### 📫 Kontak
+
+### 📫 Contact
 
 <span>
   <a href="mailto:ekomh13@gmail.com"><img src="https://img.shields.io/badge/Gmail-ekomh13@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail" /></a>
@@ -41,18 +44,20 @@
   <a href="https://www.instagram.com/ekomh_29/"><img src="https://img.shields.io/badge/Instagram-ekomh__29-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </span>
 
-### 🎓 Pendidikan
+
+### 🎓 Education
 
 - S.Kom. Teknik Informatika, STT Terpadu Nurul Fikri (2023–2027)
 - RPL, SMKS 1 TRIPLE J (2018–2021)
 - Jabar Digital Academy 2024 (Full Stack Developer)
 - Candradimuka Jabar Coding Camp 2021 (Backend Laravel)
 
-### 💼 Pengalaman
+
+### 💼 Experience
 
 - Core Team GDG On Campus STT NF
 - Partnership & Sponsorship Jabar Digital Academy
-- Asisten Dosen Pemrograman STT NF
-- Staff Minihackathon ASTRO 6.0
-- Staff IT RS Juliana
-- PKL IT Institut Tazkia
+- Assistant Lecturer in Programming, STT NF
+- Minihackathon Staff ASTRO 6.0
+- IT Staff at RS Juliana
+- IT Internship at Institut Tazkia

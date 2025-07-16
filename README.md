@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/bg_profile.png" alt="MyProfile" width="60%" />
+  <img src="assets/bg_profile.png" alt="BannerProfile" />
   <h1>Hi, I'm Eko Muchamad Haryono 👋</h1>
   <p><b>Slogan:</b> <i>"Keep Moving Forward and Keep Developing"</i></p>
   <p>

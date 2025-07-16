@@ -2,9 +2,8 @@
   <img src="assets/bg_profile.png" alt="BannerProfile" />
   <h1>Hi, I'm Eko Muchamad Haryono 👋</h1>
   <p><b>Slogan:</b> <i>"Keep Moving Forward and Keep Developing"</i></p>
-  <p>
-    <a href="https://www.ekomh29.my.id/" target="_blank"><b>🌐 Portofolio Website</b></a>
-  </p>
+  
+  [![Portofolio Website](https://img.shields.io/badge/🌐%20Portofolio%20Website-Visit-blue?style=for-the-badge&logo=google-chrome)](https://www.ekomh29.my.id/)
   
   <!-- Badges -->
   <p>

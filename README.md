@@ -23,7 +23,7 @@
 - Event & Partnership Management
 - Microsoft Office & Google Suite
 - Problem Solving & Team Collaboration
-- Linux 
+- Linux (Ubuntu) & Windows
 
 ### 📈 Statistik
 

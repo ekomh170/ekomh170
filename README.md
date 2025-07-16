@@ -34,10 +34,23 @@
 
 ### 📫 Kontak
 
-[![Gmail Badge](https://img.shields.io/badge/-ekomh13@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ekomh13@gmail.com)](mailto:ekomh13@gmail.com)
-[![Github Badge](https://img.shields.io/badge/-ekomh170-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ekomh170/)](https://www.github.com/ekomh170/)
-[![Gitlab Badge](https://img.shields.io/badge/-ekomh170-grey?style=flat&logo=gitlab&logoColor=white&link=https://gitlab.com/ekomh170/)](https://www.gitlab.com/ekomh170/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/eko-haryono-290/)
+<p align="left">
+  <a href="mailto:ekomh13@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-ekomh13@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/ekomh170" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-ekomh170-333?style=flat&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://gitlab.com/ekomh170" target="_blank">
+    <img src="https://img.shields.io/badge/GitLab-ekomh170-FC6D26?style=flat&logo=gitlab&logoColor=white" alt="GitLab" />
+  </a>
+  <a href="https://www.linkedin.com/in/eko-haryono-290/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-eko--haryono--290-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/ekomh_29/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-ekomh__29-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
 ### 🎓 Pendidikan
 

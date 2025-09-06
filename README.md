@@ -47,10 +47,11 @@
 
 ### 🎓 Education
 
+- SIB Fullstack Web Developer, NF Academy (2025)
 - S.Kom. Teknik Informatika, STT Terpadu Nurul Fikri (2023–2027)
 - RPL, SMKS 1 TRIPLE J (2018–2021)
-- Jabar Digital Academy 2024 (Full Stack Developer)
-- Candradimuka Jabar Coding Camp 2021 (Backend Laravel)
+- Full Stack Developer, Jabar Digital Academy (2024)
+- Backend Laravel, Candradimuka Jabar Coding Camp (2021)
 
 
 ### 💼 Experience

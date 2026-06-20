@@ -9,7 +9,6 @@
   <p>
     <img src="https://img.shields.io/github/followers/ekomh170?label=Followers&style=social" alt="GitHub followers" />
     <img src="https://img.shields.io/github/stars/ekomh170?affiliations=OWNER%2CCOLLABORATOR&label=Stars&style=social" alt="GitHub stars" />
-    <img src="https://img.shields.io/github/last-commit/ekomh170/ekomh170?label=Last%20Commit" alt="Last Commit" />
 </div>
 
 
